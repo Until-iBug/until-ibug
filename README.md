@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:7F5AF0,100:4F46E5&text=SAN&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer%20•%20AI%20Explorer%20•%20BCA%20Student&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:7F5AF0,100:4F46E5&text=SANYA&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer%20•%20AI%20Explorer%20•%20BCA%20Student&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Frontend+Developer;JavaScript+Enthusiast;Learning+React;Exploring+AI+%26+LLMs;Open+to+Internship+Opportunities"/>
 
 <br>
 
-<a href="https://www.linkedin.com/sanyasetia">
+<a href="https://www.linkedin.com/in/sanyasetia/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -31,11 +31,11 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6C63FF"/>
+<img src="https://komarev.com/ghpvc/?username=Until-iBug&style=for-the-badge&color=6C63FF"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=7F5AF0"/>
+<img src="https://img.shields.io/github/followers/Until-iBug?style=for-the-badge&color=7F5AF0"/>
 
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge&color=4F46E5"/>
+<img src="https://img.shields.io/github/stars/Until-iBug?affiliations=OWNER&style=for-the-badge&color=4F46E5"/>
 
 </div>
 
