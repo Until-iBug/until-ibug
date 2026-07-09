@@ -56,5 +56,81 @@ modern frontend engineering and AI.
 ```
 
 ---
+# 💻 Tech Stack
 
+<div align="center">
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql&theme=dark"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react&theme=dark"/>
+</p>
+
+
+## Cloud • DevOps • Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+</p>
+
+</div>
+
+---
+
+# 🤖 AI & Software Engineering Focus
+
+> I enjoy building practical software that solves real-world problems while continuously improving my engineering fundamentals. My current learning path combines modern frontend development with AI-powered applications.
+
+<div align="center">
+
+| Domain | Current Focus | Progress |
+| :------ | :------------ | :------: |
+| Frontend Development | HTML, CSS, JavaScript, React | 🟣🟣🟣⚪⚪ |
+| UI/UX Development | Responsive Design & Accessibility | 🟣🟣🟣⚪⚪ |
+| AI & LLM Applications | Prompt Engineering, AI APIs | 🟣🟣⚪⚪⚪ |
+| Machine Learning | Python Fundamentals | 🟣⚪⚪⚪⚪ |
+| Version Control | Git & GitHub | 🟣🟣🟣🟣⚪ |
+| Problem Solving | DSA & JavaScript | 🟣🟣🟣⚪⚪ |
+
+</div>
+
+---
+
+# 🎯 Open To
+
+<table>
+<tr>
+<td width="50%">
+
+### Currently Looking For
+
+- Frontend Developer Internship
+- Software Engineering Internship
+- Open Source Collaboration
+- React Projects
+- AI-based Web Projects
+
+</td>
+
+<td width="50%">
+
+### Interested In
+
+- Frontend Engineering
+- Full Stack Development
+- Artificial Intelligence
+- Product Engineering
+- Modern JavaScript Ecosystem
+
+</td>
+</tr>
+</table>
+
+---
 
