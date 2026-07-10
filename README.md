@@ -133,4 +133,118 @@ modern frontend engineering and AI.
 </table>
 
 ---
+# 🚀 Featured Projects
 
+<details open>
+<summary><b>💰 Expense Tracker</b></summary>
+
+### Overview
+A modern expense tracking web application designed to help users manage daily finances through a clean, responsive interface.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | HTML5 • CSS3 • JavaScript |
+| **Architecture** | Responsive Single Page Application |
+| **Performance** | Optimized DOM Manipulation |
+| **Storage** | Local Storage *(Upcoming)* |
+| **Status** | 🚧 In Progress |
+| **Repository** | [Expense Tracker](https://github.com/Until_iBug/expense-tracker) |
+
+### Key Features
+
+- Add Expenses
+- Edit Expenses
+- Delete Expenses
+- Expense Categories
+- Total Expense Calculation
+- Responsive Design
+- Form Validation
+
+### Engineering Highlights
+
+- Modular JavaScript
+- Responsive UI
+- Clean Component Structure
+- User-friendly Experience
+
+### Future Improvements
+
+- Expense Charts
+- Dark Mode
+- Budget Goals
+- Monthly Analytics
+- Authentication
+
+</details>
+
+---
+
+<details>
+<summary><b>🌦 Weather App</b></summary>
+
+### Overview
+
+A responsive weather application that fetches real-time weather information using a public Weather API.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | HTML5 • CSS3 • JavaScript • REST API |
+| **Architecture** | Client-side Web Application |
+| **Performance** | Fast API Requests |
+| **API** | OpenWeather API |
+| **Status** | ✅ Completed |
+| **Repository** | [Weather App](https://github.com/Until_iBug/weather-app) |
+
+### Features
+
+- Search by City
+- Live Temperature
+- Weather Conditions
+- Error Handling
+- Responsive Layout
+
+### What I Learned
+
+- Working with APIs
+- Async JavaScript
+- Fetch API
+- Error Handling
+- Dynamic DOM Updates
+
+</details>
+
+---
+
+
+
+<details>
+<summary><b>🎮 Rock Paper Scissors</b></summary>
+
+### Overview
+
+Interactive browser game built to strengthen JavaScript fundamentals.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | HTML5 • CSS3 • JavaScript |
+| **Status** | ✅ Completed |
+| **Repository** | [Rock Paper Scissors](https://github.com/Until_iBug/rock-paper-scissors) |
+
+### Features
+
+- Random Computer Moves
+- Score Tracking
+- Dynamic UI
+- Responsive Design
+
+### Skills Demonstrated
+
+- DOM Manipulation
+- Event Handling
+- Game Logic
+- JavaScript Functions
+
+</details>
+
+
+---
