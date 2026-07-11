@@ -148,7 +148,7 @@ A modern expense tracking web application designed to help users manage daily fi
 | **Performance** | Optimized DOM Manipulation |
 | **Storage** | Local Storage *(Upcoming)* |
 | **Status** | 🚧 In Progress |
-| **Repository** | [Expense Tracker](https://github.com/Until_iBug/expense-tracker) |
+| **Repository** | [Expense Tracker](https://github.com/Until-iBug/expense-tracker) |
 
 ### Key Features
 
@@ -193,7 +193,7 @@ A responsive weather application that fetches real-time weather information usin
 | **Performance** | Fast API Requests |
 | **API** | OpenWeather API |
 | **Status** | ✅ Completed |
-| **Repository** | [Weather App](https://github.com/Until_iBug/weather-app) |
+| **Repository** | [Weather App](https://github.com/Until-iBug/weather-app) |
 
 ### Features
 
@@ -228,7 +228,7 @@ Interactive browser game built to strengthen JavaScript fundamentals.
 |-----------|---------|
 | **Tech Stack** | HTML5 • CSS3 • JavaScript |
 | **Status** | ✅ Completed |
-| **Repository** | [Rock Paper Scissors](https://github.com/Until_iBug/rock-paper-scissors) |
+| **Repository** | [Rock Paper Scissors](https://github.com/Until-iBug/Rock-Paper-Scissor-Game) |
 
 ### Features
 
